@@ -1,0 +1,9 @@
+1-) Passar o atributo idade pra privado
+2-) Criar os getters e setters para ele
+3-) criar um método público chamado getFaixaEtaria onde:
+       < 12 = Criança
+       < 65 = Adulto
+       > 65 = Idoso
+4-) No ProgramaAluno, fazer a impressão da faixa etária
+5-) Criar uma exceção caso seja digitado idade negativa. Excessão do
+tipo InputMismatchException       
